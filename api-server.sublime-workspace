@@ -1,0 +1,881 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"4px",
+				"48px"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"text-",
+				"text-indent"
+			],
+			[
+				"border-",
+				"border-width"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"transi",
+				"transition:   (property)"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"new",
+				"newhtmlCode  (variable)"
+			],
+			[
+				"elment",
+				"angular.element"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"fon",
+				"font"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"watch",
+				"angular: $watch"
+			],
+			[
+				"http",
+				"angular: $http"
+			],
+			[
+				"findby",
+				"findByUsername"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"d",
+				"directive	Angular.js"
+			],
+			[
+				"chain",
+				"chainDescription"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"to",
+				"toDateString  (function)"
+			],
+			[
+				"ng-",
+				"ng-disabled=  (attribute)"
+			],
+			[
+				"curren",
+				"currentUser"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"factory",
+				"factory	Angular.js"
+			],
+			[
+				"controll",
+				"angular: controller"
+			],
+			[
+				"routeP",
+				"angular: $routeProvider"
+			],
+			[
+				"direc",
+				"directive	Angular.js"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"get",
+				"getDay  (function)"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"contro",
+				"controller	Angular.js"
+			],
+			[
+				"element",
+				"angular.element"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"ang",
+				"angular.module"
+			],
+			[
+				"fato",
+				"factory	Angular.js"
+			],
+			[
+				"angul",
+				"angular: $http"
+			],
+			[
+				"cont",
+				"$controller	AngularJS"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"wid",
+				"width:   (property)"
+			],
+			[
+				"w",
+				"width:   (property)"
+			],
+			[
+				"overflow-",
+				"overflow-y:   (property)"
+			],
+			[
+				"s",
+				"sans-serif  (value)"
+			],
+			[
+				"no",
+				"no-repeat  (value)"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"quer",
+				"query"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"l",
+				"location  (variable)"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"re",
+				"results"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"i",
+				"id=  (attribute)"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"overflow",
+				"overflow:   (property)"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"pt",
+				"padding-top"
+			],
+			[
+				"backgroud-",
+				"background-size"
+			],
+			[
+				"create",
+				"createTodo"
+			],
+			[
+				"json",
+				"jsonp"
+			],
+			[
+				"a",
+				"ajax  (function)"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"function",
+				"  objects with a length property (such as a function's"
+			],
+			[
+				"each",
+				"each  (function)"
+			],
+			[
+				"fo",
+				"for	for (…) {…}"
+			],
+			[
+				"g",
+				"getElementbyId"
+			],
+			[
+				"po",
+				"passport-local"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"par",
+				"Package Control: Add Repository"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pret",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"html",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"pretty",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sft",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftp",
+				"SFTP: Map to Remote…"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packg",
+				"Package Control: Install Package"
+			],
+			[
+				"PACKIN	",
+				"Package Control: Install Package"
+			],
+			[
+				"pA",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 588.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"clear",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/khebert/Sites/api-server"
+	],
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16/stylesheet/style-custom.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16/stylesheet/style-responsive.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16/header copy.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16/-stylesheet/style-custom.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/plugins/popularity-posts-widget/style/style-one.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16/style-updated.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/apenines/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-admin/network/site-themes.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/sftp-config.json",
+		"/Users/khebert/Desktop/chat-bar/chatbar.html",
+		"/Users/khebert/Desktop/velaro/prechatsurvey.html",
+		"/Users/khebert/Desktop/images/sprites.css",
+		"/Users/khebert/Desktop/images/index.html",
+		"/var/folders/xd/vwv2g4t570562tftf7y49nxc0000gn/T/sublime-sftp-browse-1416094926/mapped/var/www/staging/wp-config.php",
+		"/var/folders/xd/vwv2g4t570562tftf7y49nxc0000gn/T/sublime-sftp-browse-1416094536/mapped/var/www/html/wp-config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/index.php",
+		"/var/folders/xd/vwv2g4t570562tftf7y49nxc0000gn/T/sublime-sftp-browse-1416093481/mapped/var/www/html/wp-config.php",
+		"/var/folders/xd/vwv2g4t570562tftf7y49nxc0000gn/T/sublime-sftp-browse-1416093887/mapped/var/www/html/wp-config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16/single.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16/single/content.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16/include/function/gdlr-blog-item.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16/single/thumbnail-image.php",
+		"/Users/khebert/Sites/node-yelp/server.js",
+		"/Users/khebert/Downloads/fwddeveloperprojectsendhourseta/gameV04.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/game/gameV04.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16/page-242.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/twentyfourteen/functions.php",
+		"/Users/khebert/Desktop/html/localhost/colocation/about-us.html",
+		"/Users/khebert/Desktop/html/localhost/colocation.1.html",
+		"/Users/khebert/Desktop/html/localhost/colocation/blog.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16/single/content-widget.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16/single/thumbnail.php",
+		"/Users/khebert/Desktop/index.html",
+		"/Users/khebert/Library/Application Support/Sublime Text 3/Packages/User/SFTP.errors.log",
+		"/Applications/XAMPP/xamppfiles/htdocs/firepr/wp-activate.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/firepr/wp-content/themes/lifestyle/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/firepr/wp-content/themes/lifestyle/functions.php",
+		"/Users/khebert/Sites/angularjobsearch/src/js/app.js",
+		"/Users/khebert/Sites/angularjobsearch/src/scss/app.scss",
+		"/Users/khebert/Sites/angularjobsearch/src/partials/results.html",
+		"/Users/khebert/Sites/angularjobsearch/src/index.html",
+		"/Users/khebert/Sites/angularjobsearch/src/js/controller.js",
+		"/Users/khebert/Sites/angularjobsearch/gulpfile.js",
+		"/Users/khebert/Sites/angularjobsearch/src/js/angularjs/angular.min.js",
+		"/Users/khebert/Sites/angularjobsearch/index.html",
+		"/Users/khebert/Sites/angularjobsearch/src/js/angularjs/bower.json",
+		"/Users/khebert/Sites/thinkful/assignments/staychainv2/app/scripts/directives.js",
+		"/Users/khebert/Sites/thinkful/assignments/staychainv2/app/index.html",
+		"/Users/khebert/Sites/thinkful/assignments/staychain/CONTRIBUTING.md",
+		"/Users/khebert/Sites/thinkful/assignments/staychain/node_modules/browser-sync/lib/cli/cli-options.js",
+		"/Users/khebert/Sites/thinkful/assignments/staychainv2/app/partials/topScore.html",
+		"/Users/khebert/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/khebert/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/khebert/Sites/thinkful/assignments/staychainv2/app/partials/home.html",
+		"/Users/khebert/Sites/thinkful/assignments/open-weather-app/app/home.html",
+		"/Users/khebert/Sites/thinkful/assignments/countries-capitals/partials/home.html",
+		"/Users/khebert/Sites/thinkful/assignments/angular-owm-test/app/home.html",
+		"/Users/khebert/Sites/thinkful/assignments/waitstaff-routes-animated/home.html",
+		"/Users/khebert/Sites/thinkful/assignments/waitstaff-routes/home.html",
+		"/Users/khebert/Sites/thinkful/assignments/editable-directive/app/jquery/src/var/hasOwn.js",
+		"/Users/khebert/Sites/thinkful/assignments/staychainv2/app/scripts/main.js",
+		"/Users/khebert/Sites/thinkful/assignments/staychainv2/app/styles/components/_components/_button.scss",
+		"/Users/khebert/Sites/thinkful/assignments/staychainv2/app/partials/profile.html",
+		"/Users/khebert/Downloads/wptwin.php",
+		"/Users/khebert/Sites/thinkful/assignments/staychainv2/app/styles/components/_utils.scss",
+		"/Users/khebert/Sites/thinkful/assignments/staychainv2/app/scripts/controllers.js",
+		"/Users/khebert/Sites/thinkful/assignments/staychainv2/app/scripts/factories.js",
+		"/Users/khebert/Sites/thinkful/assignments/staychainv1/app/scripts/directives.js",
+		"/Users/khebert/Sites/thinkful/assignments/angular-e2e/bower.json",
+		"/Users/khebert/Sites/thinkful/assignments/staychainv1/app/partials/modal.html",
+		"/Users/khebert/Sites/thinkful/assignments/staychainv1/app/scripts/main.js",
+		"/Users/khebert/Sites/thinkful/assignments/staychainv1/app/scripts/factories.js",
+		"/Users/khebert/Sites/thinkful/assignments/staychainv1/app/scripts/tests/profileTest.js",
+		"/Users/khebert/Sites/thinkful/assignments/staychainv1/karma.conf.js",
+		"/Users/khebert/Sites/thinkful/assignments/staychainv1/app/scripts/tests/filterSpec.js",
+		"/Users/khebert/Sites/thinkful/assignments/editable-directive/app/make-editableSpec.js",
+		"/Users/khebert/Sites/thinkful/assignments/staychainv1/protractor.conf.js",
+		"/Users/khebert/Sites/thinkful/assignments/staychainv1/protractor.js",
+		"/Users/khebert/Sites/thinkful/assignments/staychainv1/app/scripts/tests/authTest.js",
+		"/Users/khebert/Sites/thinkful/assignments/staychainv1/app/partials/chainLink.html",
+		"/Users/khebert/Sites/thinkful/assignments/staychainv1/app/index.html",
+		"/Users/khebert/Sites/thinkful/assignments/staychainv1/app/styles/components/_utils.scss",
+		"/Users/khebert/Sites/thinkful/assignments/staychainv1/dist/index.html",
+		"/Users/khebert/Sites/thinkful/assignments/staychainv1/gulpfile.js",
+		"/Users/khebert/Sites/thinkful/assignments/staychainv1/app/scripts/filters.js",
+		"/Users/khebert/Sites/thinkful/assignments/staychainv1/app/scripts/controllers.js",
+		"/Users/khebert/Sites/thinkful/assignments/staychainv1/app/partials/profile.html",
+		"/Users/khebert/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/khebert/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/khebert/Sites/thinkful/assignments/staychainv1/app/styles/components/_components/_button.scss",
+		"/Users/khebert/Sites/thinkful/assignments/staychainv1/app/styles/main.scss",
+		"/Users/khebert/Sites/thinkful/assignments/staychainv1/app/partials/home.html",
+		"/Users/khebert/Desktop/test.html",
+		"/Users/khebert/Sites/thinkful/assignments/staychain/app/styles/main.scss",
+		"/Users/khebert/Sites/thinkful/assignments/staychain/app/scripts/main.js",
+		"/Users/khebert/Sites/thinkful/assignments/staychainv1/dist/scripts/main.min.js",
+		"/Users/khebert/Sites/thinkful/assignments/staychain/app/partials/chainLink.html",
+		"/Users/khebert/Sites/thinkful/assignments/staychain/app/index.html",
+		"/Users/khebert/Sites/thinkful/assignments/staychain/app/partials/profile.html",
+		"/Users/khebert/Sites/thinkful/assignments/angular-js-calendar-directive-challenge/package.json",
+		"/Users/khebert/Sites/thinkful/assignments/staychain/node_modules/require-dir/test/duplicates/b/1.js",
+		"/Users/khebert/Sites/thinkful/assignments/angular-weather-app/node_modules/gulp-minify-html/node_modules/minimize/node_modules/htmlparser2/test/Events/18-legacy_entities.json",
+		"/Users/khebert/Sites/thinkful/assignments/thinkful-protractor-app/node_modules/body-parser/node_modules/iconv-lite/encodings/tables/gb18030-ranges.json",
+		"/Users/khebert/Sites/thinkful/assignments/angular-weather-app/node_modules/gulp-minify-html/node_modules/minimize/node_modules/htmlparser2/test/Events/19-named_entities.json",
+		"/Users/khebert/Sites/thinkful/assignments/angular-js-calendar-directive-challenge/karma.conf.js",
+		"/Users/khebert/Sites/thinkful/assignments/countries-capitals-karma/package.json",
+		"/Users/khebert/Sites/thinkful/assignments/staychain/app/partials/home.html",
+		"/Users/khebert/Sites/thinkful/assignments/staychain/dist/styles/main.css",
+		"/Users/khebert/Sites/thinkful/assignments/staychain/.tmp/styles/main.css",
+		"/Users/khebert/Sites/thinkful/assignments/angular-js-directive-demos/megavideo-with-controller/app/main.css",
+		"/Users/khebert/Sites/thinkful/assignments/editable-directive/app/main.css",
+		"/Users/khebert/Sites/thinkful/assignments/angular-js-directive-demos/transclusion/main.css",
+		"/Users/khebert/Sites/thinkful/assignments/angular-js-directive-demos/demo2/main.css",
+		"/Users/khebert/Sites/thinkful/assignments/angular-js-directive-demos/demo1/main.css",
+		"/Users/khebert/Sites/thinkful/assignments/angular-js-calendar-directive-challenge/app/main.css",
+		"/Users/khebert/Sites/thinkful/assignments/staychain/node_modules/gulp-csso/node_modules/.bin/csso",
+		"/Users/khebert/Sites/thinkful/assignments/countries-capitals/bower_components/purecss/.csslintrc",
+		"/Users/khebert/Sites/thinkful/assignments/.gitignore",
+		"/Users/khebert/Sites/thinkful/assignments/angular-js-calendar-directive-challenge/calendarDirectiveSpec.js",
+		"/Users/khebert/Sites/thinkful/assignments/angular-js-calendar-directive-challenge/app/appSpec.js",
+		"/Users/khebert/Sites/thinkful/assignments/staychain/app/summary.html",
+		"/Users/khebert/Sites/thinkful/assignments/staychain/app/scripts/model.json",
+		"/Users/khebert/Sites/thinkful/assignments/staychain/app/partials/chain.html",
+		"/Users/khebert/Sites/thinkful/assignments/staychain/app/partials/chain-details.html",
+		"/Users/khebert/Sites/thinkful/assignments/angular-js-calendar-directive-challenge/app/app.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16",
+			"/Users/khebert/Sites/thinkful/assignments/staychainv2/,/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16",
+			"/Users/khebert/Sites/thinkful/assignments/staychainv2/",
+			"/Users/khebert/Sites/thinkful/assignments/staychainv1/app/style",
+			"/Users/khebert/Sites/thinkful/assignments/staychainv1/app/styles/components",
+			"/Users/khebert/Sites/wordpress/wp-content/themes/",
+			"/Users/khebert/Sites/wordpress/wp-content/themes",
+			"/Users/khebert/Desktop/backup/summ-live-stage,/Users/khebert/Desktop/backup/summa",
+			"/Users/khebert/Desktop/backup/summ-live-stage",
+			"/Users/khebert/Sites/summa",
+			"/Users/khebert/Sites/summa,/Applications/XAMPP/xamppfiles/htdocs/summa/wp-content",
+			"/Users/khebert/Sites/summa",
+			"/Users/khebert/Desktop/summ-old",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"blog",
+			"headerphone",
+			"margin-right:20px; float: left;",
+			"errors",
+			"compliant",
+			"images",
+			"i",
+			"compliant",
+			"class=\"blog-info blog-category\"",
+			"class=\"gdlr-blog-info gdlr-info\"",
+			"gdlr-blog-thumbnail",
+			"post-he",
+			"style",
+			"main-content",
+			"container",
+			"gameV04",
+			"the_content",
+			".js",
+			"get_template_directory",
+			"496",
+			"wp-login",
+			".css",
+			"style.css",
+			"input",
+			"#subnav",
+			".footer",
+			"footer",
+			"icons",
+			"-1",
+			"nth",
+			"</td>",
+			"<td>",
+			"footer-widgets p",
+			"subnav",
+			"#444",
+			"column",
+			"18px",
+			"hero",
+			"920px",
+			"white",
+			"images",
+			".hero",
+			".bold",
+			"widget",
+			"center",
+			"a, a:visited",
+			"509",
+			"1em",
+			"nospace",
+			"a {",
+			"button",
+			"rounded",
+			"result",
+			"3s",
+			"height",
+			"ease-in-out",
+			"result",
+			"results",
+			"bottom",
+			"search",
+			" {",
+			"border",
+			"rounded",
+			"search",
+			"button",
+			"settings",
+			"limit",
+			"65px",
+			"test",
+			"sort",
+			"date",
+			"radius",
+			"signin",
+			"start",
+			"chain",
+			"startchain",
+			"startChain",
+			"create",
+			"breakChain",
+			"chainLink",
+			"focus",
+			"timeout",
+			"to,epit",
+			"timeout",
+			"ng-pattern",
+			"checkPassword",
+			"home",
+			"max-wi",
+			".4s",
+			"none",
+			"reason",
+			"chain",
+			"logo",
+			"primary",
+			"#3367D6",
+			"RobotoCondensed",
+			"Roboto Condensed",
+			"#42",
+			"app-bar",
+			".app-bar-container",
+			"blue",
+			"            $scope.userService = User;\n",
+			"signedIn()",
+			"signIn",
+			"originalUser",
+			"userService.signIn()",
+			"User",
+			"user",
+			"User.signedIn",
+			"Auth",
+			"'Auth',",
+			"Auth",
+			"'Auth',",
+			"Auth,",
+			"Auth",
+			"data",
+			"date",
+			"chains",
+			"testFilter",
+			"bower_components",
+			"@media",
+			"copy",
+			"scripts",
+			"dist",
+			"chainDescription",
+			"signUp",
+			"goals",
+			"Auth.login"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"tabs-2",
+			"[/accordion]",
+			"[accordion ",
+			"[/acc_item]",
+			"[acc_item ",
+			"accordion"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 27.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 102.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 102.0
+	},
+	"project": "api-server.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"style-",
+				"wp-content/themes/flawless-v1-16/-stylesheet/style-custom.css"
+			],
+			[
+				"controll",
+				"staychainv2/app/scripts/controllers.js"
+			],
+			[
+				"home.html",
+				"staychainv2/app/partials/home.html"
+			],
+			[
+				"main.css",
+				"staychain/dist/styles/main.css"
+			],
+			[
+				"mainspe",
+				"signup-directive/app/mainSpec.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Sites/overtherainbowhotairballons.com/overtherainbow.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
