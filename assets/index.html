@@ -1,13 +1,35 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" ng-app="app">
 
 <head>
     <meta charset="UTF-8">
-    <title>API Server</title>
+    <title>Desktop Envy</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.20/angular.min.js"></script>
+    <script src="/bower_components/angular-fancy-modal/dist/angular-fancy-modal.js"></script>
+    <script type="text/javascript" src="/js/main.js"></script>
+    <link rel="stylesheet" href="/bower_components/normalize.css/normalize.css">
+    <link rel="stylesheet" href="/bower_components/angular-fancy-modal/dist/angular-fancy-modal.css">
+    <link rel="stylesheet" href="/bower_components/angular-fancy-modal/dist/angular-fancy-modal-theme-classic.css">
+
+
+    <link rel="stylesheet" href="/styles/main.css">
+
 </head>
 
-<body>
-
+<body class="nospace" ng-keydown="keyPress($event)">
+    <header>
+        <div class="wrapper">
+            <h1 id="logo">Desktop Envy</h1>
+        </div>
+    </header>
+    <section class="main" ng-controller="MainCtrl" ng-init="loading = false">
+        <results></results>
+    </section>
+    <footer class="cb">
+        <div class="wrapper">
+            powered by imgur
+        </div>
+    </footer>
 </body>
 
 </html>

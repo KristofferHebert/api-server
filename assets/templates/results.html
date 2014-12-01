@@ -1,0 +1,15 @@
+<ul class="results grid">
+    <div>
+        <div class="spinner" ng-hide="loading == true">
+            <div class="bounce1"></div>
+            <div class="bounce2"></div>
+            <div class="bounce3"></div>
+        </div>
+
+    </div>
+    <li ng-repeat="result in results.data">
+        <a ng-click="imagePopup($index)"><img alt="" ng-src='{{result.image_thumb}}' />
+        </a>
+    </li>
+    <li ng-if="error">{{error}}</li>
+</ul>

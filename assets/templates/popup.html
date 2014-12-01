@@ -1,0 +1,7 @@
+<div class="popup">
+    <img src="" alt="" ng-src="{{results.data[index].image_href}}">
+    <div class="cb">
+        <a ng-click="swipe(-1)" ng-if="index !== 0" class="btn">previous</a>
+        <a ng-click="swipe(1)" ng-if="index !== (results.data.length - 1)" class="btn">next</a>
+    </div>
+</div>

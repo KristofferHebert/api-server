@@ -20,16 +20,21 @@ function checkCache(timestamp) {
     return x;
 };
 
-function fetchSubreddit(subreddit) {
+function fetch(subreddit, page) {
     var defer = q.defer(),
         data = [],
         body,
         options = {
-            url: 'https://api.imgur.com/3/gallery/r/' + subreddit + '/top/',
+            url: 'https://api.imgur.com/3/gallery/r/' + subreddit + '/top/month/',
             headers: {
                 'Authorization': 'Client-ID ' + img_config.CLIENTID
             }
         };
+
+    if (page) {
+        options['url'] = options['url'] + 'page/' + page;
+        console.log(options['url'])
+    }
 
     request.get(options, function(err, response, body) {
         if (err) defer.reject(response)
@@ -40,7 +45,8 @@ function fetchSubreddit(subreddit) {
                     "image_href": element.link,
                     "image_thumb": 'http://i.imgur.com/' + element.id + 'b.jpg',
                     "link": "http://imgur.com/r/" + subreddit + "/" + element.id,
-                    "score": element.score
+                    "score": element.score,
+                    "id": element.id
                 });
             });
 
@@ -59,15 +65,17 @@ module.exports = {
 
             var data = [],
                 promises = [
-                    fetchSubreddit("macsetups"),
-                    fetchSubreddit("battlestations"),
-                    fetchSubreddit("desktops"),
-                    fetchSubreddit("pcmasterrace")
+                    fetch("macsetups"),
+                    fetch("battlestations"),
+                    fetch("averagebattlestations"),
+                    fetch("battlestations", 1),
+                    fetch("battlestations", 2),
+                    fetch("battlestations", 3),
+                    fetch("desktops")
                 ];
 
             q.allSettled(promises)
                 .then(function(results) {
-                    console.log(results);
                     _.each(results, function(result, index) {
                         if (result.state === 'fulfilled') {
                             data.push(results[index].value);
@@ -75,7 +83,8 @@ module.exports = {
                     });
                     data = _.chain(data)
                         .flatten()
-                        .shuffle()
+                        .sortBy('score')
+                        .reverse()
                         .value();
                     finalPayload = {
                         'data': data,
